@@ -1,10 +1,8 @@
 # Introduction
 📊 Dive into the organization's data! to get some useful Insights
 about the average salary by job title, and department,
-<<<<<<< HEAD
 besides knowing the top 15 Highest-earning employees in the entire organization, and some other useful information which going to help the organization 
 =======
-besides knowing the top 15 Highest-earning employees in the entire organization, and some other useful information which going to help the organization
 
 ###### The HR_database and this small project are considered a good kick-off for the beginner level because it's straightforward as well, you use it to generate more queries and get more Insights.
 
