@@ -5,7 +5,7 @@ about the average salary by job title, and department,
 besides knowing the top 15 Highest-earning employees in the entire organization, and some other useful information which going to help the organization 
 =======
 besides knowing the top 15 Highest-earning employees in the entire organization, and some other useful information which going to help the organization
->>>>>>> afb70fe4c0deb42c964cab096b3d47efd4ae9d9b
+
 ###### The HR_database and this small project are considered a good kick-off for the beginner level because it's straightforward as well, you use it to generate more queries and get more Insights.
 
 ### The questions I wanted to answer through my SQL 
@@ -27,5 +27,4 @@ queries were:
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 =======
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
->>>>>>> afb70fe4c0deb42c964cab096b3d47efd4ae9d9b
 
