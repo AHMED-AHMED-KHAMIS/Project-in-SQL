@@ -1,6 +1,6 @@
 /*
 
-Question: What are the number of employees in each department?
+Question: What is the number of employees in each department?
 _ Here I will Identify the number of employees in each department.
 _ Why? For the HR Department:
 Resource Allocation: Knowing the number of employees in the HR department helps allocate resources effectively. It ensures that there are sufficient HR professionals to handle various tasks such as recruitment, employee relations, benefits administration, and training.
